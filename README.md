@@ -3,10 +3,8 @@
 
 ### I'm Devendra
 
-![](https://komarev.com/ghpvc/?username=devendra-karkar&label=View+Counter)
-
+<!-- ![](https://komarev.com/ghpvc/?username=devendra-karkar&label=View+Counter)  -->
 [![LinkedIN Badge](https://img.shields.io/badge/LinkdeIN-Devendra-blue)](https://www.linkedin.com/in/devendra-karkar-47a5771a6/) 
-
 
 Thanks a lot! ❤️
 
